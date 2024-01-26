@@ -1,0 +1,11 @@
+name: Publica2
+type: module
+description: 'Facilita la publicación en varias páginas web.'
+package: Custom
+core_version_requirement: ^10
+dependencies:
+  - node
+  - text
+  - filter
+  - user
+  - system

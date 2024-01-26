@@ -1,0 +1,7 @@
+publica2.obtener_formulario_externo:
+  path: '/publica2/formulario-externo'
+  defaults:
+    _controller: '\Drupal\publica2\Controller\Publica2Controller::obtenerFormularioExterno'
+    _title: 'Formulario Externo'
+  requirements:
+    _permission: 'access content'

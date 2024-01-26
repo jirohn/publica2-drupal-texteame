@@ -1,0 +1,6 @@
+publica2-scripts:
+  version: 1.0
+  js:
+    js/publica2.js: {}
+  dependencies:
+    - core/jquery
